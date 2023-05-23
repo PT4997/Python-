@@ -115,3 +115,4 @@ if a == "left":
         print("You attacketed by trout. Game over!")
 else:
     print("You fall into a hole. Game over!")
+ascii art = https://ascii.co.uk/art
